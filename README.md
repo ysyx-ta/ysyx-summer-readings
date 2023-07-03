@@ -24,8 +24,6 @@
 
 [AXI相关](https://www.bilibili.com/video/BV1mD4y1p7UK/?vd_source=38024886289f4efc2c6167eacd5361b7)
 
-[握手协议](https://zhuanlan.zhihu.com/p/620498057)
-
 [ELF](https://www.bilibili.com/video/BV17K4y1N7Q2/?p=16&vd_source=38024886289f4efc2c6167eacd5361b7)
 
 [芯动力——硬件加速设计方法](https://www.icourse163.org/course/SWJTU-1207492806)
@@ -42,14 +40,16 @@ https://github.com/QQxiaoming/quard_star_tutorial
 
 
 
+## 文章
+
+[握手协议](https://zhuanlan.zhihu.com/p/620498057)
+
+[cpu架构师之路](https://mp.weixin.qq.com/s/p2RRFLMBvNZg7PPde-jjiA)
+
+
+
 ## 课程
 
 CS152  MIT6.175 MIT6.375  18-447
 
 [RV-SOC design based T-head](https://www.dizhixiong.cn/class5/)
-
-
-
-## 其他
-
-[cpu架构师之路](https://mp.weixin.qq.com/s/p2RRFLMBvNZg7PPde-jjiA)
