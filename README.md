@@ -5,10 +5,9 @@
 ## 工具篇
 
 1. vscode + ssh + digital ide / metals(mill)
-
 2. idea + sbt (mill)
 3. 记录/看paper使用zotero + 相关插件
-4. 多用chatgpt https://cc.ai55.cc/ 以及https://github.com/LiLittleCat/awesome-free-chatgpt，可以看看chatgpt如何设置prompt
+4. [chatgpt汇总1](https://cc.ai55.cc/) 以及 [chatgpt汇总2](https://github.com/LiLittleCat/awesome-free-chatgpt)  理解 prompt
 
 
 
