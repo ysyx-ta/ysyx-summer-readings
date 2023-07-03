@@ -6,8 +6,9 @@
 
 1. vscode + ssh + digital ide / metals(mill)
 2. idea + sbt (mill)
-3. 记录/看paper使用zotero + 相关插件
-4. [chatgpt汇总1](https://cc.ai55.cc/) 以及 [chatgpt汇总2](https://github.com/LiLittleCat/awesome-free-chatgpt)  理解 prompt
+3. git熟练使用，每天update！
+4. 记录/看paper使用zotero + 相关插件
+5. [chatgpt汇总1](https://cc.ai55.cc/) 以及 [chatgpt汇总2](https://github.com/LiLittleCat/awesome-free-chatgpt)  理解 prompt
 
 
 
@@ -15,7 +16,7 @@
 
 基础版本 https://www.aliyundrive.com/s/gkhQuKuQKyy 
 
-进阶版本 https://www.aliyundrive.com/s/jisU96qDGrA 提取码: 7ox0 
+进阶版本 https://www.aliyundrive.com/s/jisU96qDGrA 提取码: 7ox0
 
 
 
