@@ -8,7 +8,7 @@
 
 2. idea + sbt (mill)
 3. 记录/看paper使用zotero + 相关插件
-4. 多用chatgpt https://cc.ai55.cc/ ，可以看看chatgpt如何设置prompt
+4. 多用chatgpt https://cc.ai55.cc/ 以及https://github.com/LiLittleCat/awesome-free-chatgpt，可以看看chatgpt如何设置prompt
 
 
 
