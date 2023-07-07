@@ -18,6 +18,8 @@
 
 进阶版本 https://www.aliyundrive.com/s/jisU96qDGrA 提取码: 7ox0
 
+[see MIPS run Linux](./book/See.MIPS.Run.2nd.中文版.pdf)
+
 
 
 ## 视频
