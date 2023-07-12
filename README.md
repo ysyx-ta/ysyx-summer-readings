@@ -12,6 +12,15 @@
 
 
 
+## Chisel入门
+
+1.   [tour of scala](https://docs.scala-lang.org/zh-cn/tour/tour-of-scala.html)
+2.   chisel bootcamp
+3.   [chisel tips](https://jia.je/hardware/2022/01/03/chisel3-cookbook/)  and [cookbook](https://www.chisel-lang.org/chisel3/docs/cookbooks/cookbook.html)
+4.   dinocpu
+
+
+
 ## 书籍
 
 基础版本 https://www.aliyundrive.com/s/gkhQuKuQKyy 
@@ -52,6 +61,6 @@ https://github.com/QQxiaoming/quard_star_tutorial
 
 ## 课程
 
-CS152  MIT6.175 MIT6.375  18-447
+CS152  MIT6.175  MIT6.375  18-447
 
 [RV-SOC design based T-head](https://www.dizhixiong.cn/class5/)
