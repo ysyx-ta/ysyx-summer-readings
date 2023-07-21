@@ -23,9 +23,10 @@
 
 ## 书籍
 
-基础版本 https://www.aliyundrive.com/s/gkhQuKuQKyy 
+[基础版本](https://www.aliyundrive.com/s/v6SjfJmJXoR)
 
-进阶版本 https://www.aliyundrive.com/s/jisU96qDGrA 提取码: 7ox0
+
+[进阶版本](https://www.aliyundrive.com/s/jisU96qDGrA) 提取码: 7ox0
 
 [see MIPS run Linux](./book/See.MIPS.Run.2nd.中文版.pdf)
 
@@ -41,6 +42,7 @@
 
 [数字集成电路静态时序分析基础](https://space.bilibili.com/382647602)
 
+[RV-SOC design based T-head](https://www.dizhixiong.cn/class5/)
 
 
 ## 代码
@@ -63,4 +65,4 @@ https://github.com/QQxiaoming/quard_star_tutorial
 
 CS152  MIT6.175  MIT6.375  18-447
 
-[RV-SOC design based T-head](https://www.dizhixiong.cn/class5/)
+
