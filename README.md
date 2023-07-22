@@ -45,13 +45,6 @@
 [RV-SOC design based T-head](https://www.dizhixiong.cn/class5/)
 
 
-## 代码
-
-https://gitee.com/xiaowuzxc/SparrowRV
-
-https://github.com/QQxiaoming/quard_star_tutorial
-
-
 
 ## 文章
 
