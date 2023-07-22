@@ -15,9 +15,9 @@
 ## Chisel入门
 
 1.   [tour of scala](https://docs.scala-lang.org/zh-cn/tour/tour-of-scala.html)
-2.   chisel bootcamp
+2.   [chisel bootcamp](https://github.com/freechipsproject/chisel-bootcamp)
 3.   [chisel tips](https://jia.je/hardware/2022/01/03/chisel3-cookbook/)  and [cookbook](https://www.chisel-lang.org/chisel3/docs/cookbooks/cookbook.html)
-4.   dinocpu
+4.   [dinocpu](https://github.com/jlpteaching/dinocpu)
 
 
 
