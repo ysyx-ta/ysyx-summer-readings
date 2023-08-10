@@ -62,5 +62,5 @@ CS152  MIT6.175  MIT6.375  18-447
 
 ## 开源代码
 
-riscv-mini(熟悉chisel) -> cva6(A线) -> rocket-core(非阻塞cache) -> boom(都有) -> [vRoom](https://github.com/MoonbaseOtago/vroom)(多核) -> Xiangshan
+riscv-mini(熟悉chisel) -> cva6(A线) -> rocket-core(非阻塞cache) -> boom(都有) -> [vRoom](https://github.com/MoonbaseOtago/vroom)(多核) -> Xiangshan(世界最高峰）
 
