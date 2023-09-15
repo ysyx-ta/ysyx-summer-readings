@@ -17,9 +17,10 @@
 1.   [tour of scala](https://docs.scala-lang.org/zh-cn/tour/tour-of-scala.html)
 2.   [chisel bootcamp](https://github.com/freechipsproject/chisel-bootcamp)
 3.   [csdn chisel教程汇总](https://blog.csdn.net/qq_34291505/article/details/86744581)
-4.   [style guide](https://github.com/ccelio/chisel-style-guide)
-5.   [chisel tips](https://jia.je/hardware/2022/01/03/chisel3-cookbook/)  and [cookbook](https://www.chisel-lang.org/chisel3/docs/cookbooks/cookbook.html)
-6.   [dinocpu](https://github.com/jlpteaching/dinocpu)
+4.   [csdn chisel教程汇总-chisel3](https://blog.csdn.net/weixin_43681766/category_11828804.html)
+5.   [style guide](https://github.com/ccelio/chisel-style-guide)
+6.   [chisel tips](https://jia.je/hardware/2022/01/03/chisel3-cookbook/)  and [cookbook](https://www.chisel-lang.org/chisel3/docs/cookbooks/cookbook.html)
+7.   [dinocpu](https://github.com/jlpteaching/dinocpu)
 
 
 
