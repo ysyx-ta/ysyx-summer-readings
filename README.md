@@ -22,6 +22,7 @@
 6.   [style guide](https://github.com/ccelio/chisel-style-guide)
 7.   [chisel tips](https://jia.je/hardware/2022/01/03/chisel3-cookbook/)  and [cookbook](https://www.chisel-lang.org/chisel3/docs/cookbooks/cookbook.html)
 8.   [dinocpu](https://github.com/jlpteaching/dinocpu)
+9.   [UCSC CSE228A: Agile Hardware Design](https://classes.soe.ucsc.edu/cse228a)
 
 
 
